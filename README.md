@@ -1,4 +1,3 @@
-<img width="1470" alt="Screenshot 2024-11-10 at 18 06 49" src="https://github.com/user-attachments/assets/623b205d-efa4-4f86-8657-6dd015133194"># PortfolioWebsite
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.2.
 
