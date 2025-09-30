@@ -9,7 +9,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "github-build": "ng build --configuration production --base-href 'https://sumedhav05.github.io/my-portfolio-website/'",
-    "github-deploy": "npx angular-cli-ghpages --dir=dist/"
+    "github-deploy": "npx angular-cli-ghpages --dir=dist/my-portfolio-website"
   },
   "private": true,
   "dependencies": {
