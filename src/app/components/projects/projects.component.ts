@@ -29,8 +29,8 @@ export class ProjectsComponent {
       description: 'Feel free to check out the code for my portfolio on Github. It\'s open for exploration, and you\'re welcome to fork it and create your own version!',
       technologies: ['Angular', 'TypeScript', 'HTML', 'SCSS', 'Bootstrap', 'GitHub Pages', 'Github Actions'],
       src: './assets/projects/portfolio.png',
-      link: 'https://github.com/SumedhaSahdev/my-portfolio',
+      link: 'https://github.com/SumedhaV05/my-portfolio',
     }
-    
+
   ];
 }
