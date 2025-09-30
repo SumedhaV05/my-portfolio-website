@@ -21,3 +21,8 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
+## Steps to Deploy using Github pages
+
+Make sure your github-deploy points to "npx angular-cli-ghpages --dir=dist/browser" 
+npm run github-build
+npm run github-deploy
