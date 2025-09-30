@@ -25,6 +25,6 @@ export class ProfileComponent {
   }
 
   goToGithub() {
-    window.open('https://github.com/SumedhaSahdev', '_blank');
+    window.open('https://github.com/SumedhaV05', '_blank');
   }
 }
